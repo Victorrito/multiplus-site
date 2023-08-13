@@ -63,11 +63,11 @@ a.navlink:hover{
 /* Extra small devices (portrait phones, less than 576px) */
 @media (min-width: 576px) {
   .title{
-    font-size: 85px;
+    font-size: 100px;
   }
 
   p.text-banner{
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 

@@ -68,12 +68,9 @@ a.navlink:hover{
   }
 
   .header{
-    height: 100vh;
+    height: 110vh;
   }
 
-  a.btn.btn-lg.heartbeat{
-    width: 100px;
-  }
 }
 
 /* Medium devices (tablets, 768px and up) */

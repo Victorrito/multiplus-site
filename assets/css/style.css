@@ -526,13 +526,13 @@ a {
 }
 .footer-call-to-action-button:hover {
     background-color: #fffff2;
-    color: #00bef0;
+    color: white;
 }
 .button:last-of-type {
     margin-right: 0;
 }
 .footer-call-to-action-button {
-    background-color: pink;
+    background-color: #EC0C81;
     border-radius: 21px;
     color: #fffff2;
     display: inline-block;

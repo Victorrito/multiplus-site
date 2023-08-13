@@ -69,12 +69,9 @@ a.navlink:hover{
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   .title{
-    font-size: 85px;
+    font-size: 100px;
   }
 
-  .header{
-    height: 150vh;
-  }
 
 }
 

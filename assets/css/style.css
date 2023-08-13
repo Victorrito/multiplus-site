@@ -28,6 +28,10 @@ header{
     align-self: center;
 }
 
+.texts{
+  padding: 0rem 1rem;
+}
+
 a.btn.btn-lg.heartbeat{
     background: rgb(225, 15, 79);
     color: white;

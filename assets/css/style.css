@@ -532,7 +532,7 @@ a {
     margin-right: 0;
 }
 .footer-call-to-action-button {
-    background-color: purple;
+    background-color: pink;
     border-radius: 21px;
     color: #fffff2;
     display: inline-block;
@@ -594,7 +594,7 @@ a {
 }
 
 .footer-social-amoeba-path {
-    fill: ;
+    fill: #027b9a;
 }
 
 .footer-social-link.linkedin {
@@ -655,7 +655,7 @@ a {
 }
 
 .footer-copyright {
-    background-image: linear-gradient(to right top, #d81e1e, #e20538, #e90050, #ec0068, #ec0c81);;
+    background-image: linear-gradient(to right top, #d81e1e, #e20538, #e90050, #ec0068, #ec0c81);
     color: #fff;
     padding: 15px 30px;
     text-align: center;

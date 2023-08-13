@@ -25,7 +25,6 @@ header{
     width: 100%;
     height: 85vh;
     position: relative;
-    align-items: center;
 }
 
 a.btn.btn-lg.heartbeat{

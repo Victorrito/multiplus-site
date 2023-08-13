@@ -594,7 +594,7 @@ a {
 }
 
 .footer-social-amoeba-path {
-    fill: #027b9a;
+    fill: linear-gradient(to right top, #d81e1e, #e20538, #e90050, #ec0068, #ec0c81);;
 }
 
 .footer-social-link.linkedin {
@@ -655,7 +655,7 @@ a {
 }
 
 .footer-copyright {
-    background-color: red;
+    background-image: linear-gradient(to right top, #d81e1e, #e20538, #e90050, #ec0068, #ec0c81);;
     color: #fff;
     padding: 15px 30px;
     text-align: center;

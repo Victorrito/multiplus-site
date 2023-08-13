@@ -61,6 +61,9 @@ a.navlink:hover{
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 576px) {
+
+}
 
 
 /* Small devices (landscape phones, 576px and up) */
@@ -83,7 +86,9 @@ a.navlink:hover{
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 1024px){
-
+  .title{
+    font-size: 200px;
+  }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -92,7 +97,7 @@ a.navlink:hover{
 }
 
 @media (min-width: 1536px) {
-
+  
 }
 
 /* ANIMAÇÃO NO TITLE DO HEADER */

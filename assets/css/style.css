@@ -87,7 +87,7 @@ a.navlink:hover{
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 1024px){
   .title{
-    font-size: 175px;
+    font-size: 165px;
   }
 }
 

@@ -655,7 +655,7 @@ a {
 }
 
 .footer-copyright {
-   border-top: 2px solid #ccc;
+   border-top: 1px solid #000;
     color: #fff;
     padding: 15px 30px;
     text-align: center;

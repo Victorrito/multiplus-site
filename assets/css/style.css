@@ -70,6 +70,10 @@ a.navlink:hover{
   .header{
     height: 100vh;
   }
+
+  a.btn.btn-lg.heartbeat{
+    width: 30px;
+  }
 }
 
 /* Medium devices (tablets, 768px and up) */

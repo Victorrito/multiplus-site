@@ -370,6 +370,7 @@ a.navlink:hover{
 
 .btn-multi{
   background-image: linear-gradient(to right top, #e32488, #ed157b, #f5036d, #fb005d, #ff004d);
+  color: white;
 }
 
 /* FOOTER */

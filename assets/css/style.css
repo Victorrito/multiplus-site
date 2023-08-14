@@ -368,6 +368,10 @@ a.navlink:hover{
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave ao passar o mouse */
 }
 
+.card-color{
+  background-image: linear-gradient(to right top, #e32488, #ed157b, #f5036d, #fb005d, #ff004d);
+}
+
 .btn-multi{
   background-image: linear-gradient(to right top, #e32488, #ed157b, #f5036d, #fb005d, #ff004d);
   color: white;

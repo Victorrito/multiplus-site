@@ -299,14 +299,6 @@ a.navlink:hover{
     background-color: #d8ae76;
 }
 
-.icons{
-    color: #fff;
-    font-size: 75px;
-    padding: 20px;
-    background-image: linear-gradient(to right, #ffb100, #ffc400, #ffd800, #fbeb00, #f4ff00);
-    border-radius: 100px;
-}
-
 .text-services{
     text-align: center;
     display: flex;

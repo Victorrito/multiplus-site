@@ -739,7 +739,7 @@ a {
 #cookie-banner button {
   width: 100%;
   height: 40px;
-  background-color: #0D6EFD;
+  background-image: linear-gradient(to right top, #d81e1e, #e20538, #e90050, #ec0068, #ec0c81);
   border-radius: 5px;
   border: none;
   color: #fff;
